@@ -7,10 +7,10 @@ ToolBox is a Python command-line tool that provides a menu of options for runnin
 
 ## Usage
 
-To use ToolBox, simply run the `toolbox.py` script and follow the prompts. The main menu will display a list of available options, each with a corresponding number. 
+To use ToolBox, simply run the `main.py` script and follow the prompts. The main menu will display a list of available options, each with a corresponding number. 
 To select an option, type `select` followed by the option number. For example, to select option 1, type `select 1`. Once you have selected an option, you can run the corresponding script by typing `run` or `start`. This will stop the current script and run the selected script. If you have not selected an option, ToolBox will display an error message. If you want to exit ToolBox, simply type `exit`. This will stop the current script and exit the program. 
 
-To customize ToolBox, you can modify the `toolbox.py` script to add or remove options, change the filenames of the scripts that are run, and more. 
+To customize ToolBox, you can modify the `main.py` script to add or remove options, change the filenames of the scripts that are run, and more. 
 
 You can also modify the `README.md` file to provide more detailed instructions on how to use your customized version of ToolBox.
 
