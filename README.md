@@ -25,6 +25,7 @@ ToolBox requires Python 3 and the following module:
 To install ToolBox, clone the repository and install the required module using pip:
 
 git clone [https://github.com/GH0STSecurity/ToolBox_Template](https://github.com/GH0STSecurity/ToolBox_Template)  
+
 cd ToolBox_Template
 
 pip install -r requirements.txt
